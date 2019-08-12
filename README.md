@@ -1,2 +1,2 @@
-# c
-Primeiros passos com a linguagem C
+# Linguagem C
+## Curso - Primeiros passos com a linguagem C
